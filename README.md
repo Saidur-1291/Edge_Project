@@ -76,7 +76,7 @@ Jupyter Notebook
 
 Setup Instructions:
 Clone the repository-
-git clone https://github.com/Zubaer-Ahmad/Sales-Data-Analysis-And-Visualization-Using-Python.git
+git clone https://github.com/saidur-rahma/Edge_Project
 cd your-repository
 
 Install the required packages-
